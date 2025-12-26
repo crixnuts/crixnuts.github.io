@@ -3,7 +3,7 @@ layout: home
 title: Welcome
 ---
 
-# Hello 👋
+# Jekyll 👋
 Jekyll site hosted on GitHub Pages.
 
 - Projects
